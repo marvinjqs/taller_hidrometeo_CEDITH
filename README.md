@@ -1,2 +1,3 @@
 # taller_hidrometeo_CEDITH
 TALLER: ANÁLISIS DE DATOS HIDROMETEOROLÓGICOS CON R Y QGIS
+Marvin J. Quispe Sedano
